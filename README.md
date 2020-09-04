@@ -26,10 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ![baidu](https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png)
 ```
-#Just testing_20200904
+# Just testing_20200904
 [baidu](https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png)
 ![baidu](https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png)
+![test_picture](https://github.com/kanhao100/kanhao100.github.io/picture/test.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## test Header 2
 
 ### Jekyll Themes
 
